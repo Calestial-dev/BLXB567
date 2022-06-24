@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BLXB567
+Hii 👋
+introduce my name is Ward D Syah can call me Syah
 
  # WARD D SUPPORT 
 
