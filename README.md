@@ -7,4 +7,4 @@ introduce my name is Ward D Syah can call me Syah
 
 
 
-[MyWhatsApp](https://wa.me/6283117436733)</b>
+[My WhatsApp](https://wa.me/6283117436733)</b>
