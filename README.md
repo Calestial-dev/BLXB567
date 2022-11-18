@@ -1,12 +1,12 @@
 ### Hello I am Ward D Syah 👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=BLXB567&description=Hi,%20i%27m%20Ward%20D%20Syah%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/blxb567&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ward_d_syah&github=BLXB567&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20BLXB567"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=Ward%20D%20Syah&description=Hi,%20i%27m%20Ward%20D%20Syah%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/blxb567&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ward_d_syah&github=BLXB567&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20BLXB567"/>
 
 ------
 
 <p align='center'>
-  <a href="https://wa.me/8801645461453"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
-  <a href="https://facebook.com/ainneboot"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
+  <a href="https://wa.me/6283117436733"><img height="30" src="https://telegra.ph/file/5f65f03b1f23e9601fa86.jpg"></a>
+  <a href="https://facebook.com/Syah%20Arga"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
   <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
   <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
