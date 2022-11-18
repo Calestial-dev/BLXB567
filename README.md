@@ -7,8 +7,7 @@
 <p align='center'>
   <a href="https://wa.me/6283117436733"><img height="30" src="https://telegra.ph/file/5f65f03b1f23e9601fa86.jpg"></a>
   <a href="https://facebook.com/Syah%20Arga"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
-  <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
-  <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+  <a href="https://instagram.com/ward_d_syah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
 
 </br>
@@ -30,9 +29,9 @@
  </p>
    
  ------
-<p align="center"><a href="https://github.com/Aiinne"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
+<p align="center"><a href="https://github.com/BLXb567"><img src="https://github-readme-stats.vercel.app/api?username=BLXB567&show_icons=true&theme=tokyonight"></a></p>
 <p align="center">
-  <a href="https://github.com/aiinne"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/BLXB567"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLXB567&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiinne&" alt="Aiinne" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLXB567&" alt="BLXB567" /></p>
