@@ -1,6 +1,6 @@
-### Hello I am Aine 👋 
+### Hello I am Ward D Syah 👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=BLXB567&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/blxb567&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ward_d_syah&github=BLXB567&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20BLXB567"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=BLXB567&description=Hi,%20i%27m%20Ward%20D%20Syah%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/blxb567&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ward_d_syah&github=BLXB567&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20BLXB567"/>
 
 ------
 
